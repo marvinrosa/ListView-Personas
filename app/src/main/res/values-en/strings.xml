@@ -1,4 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Persons</string>
+    <string name="str_Edad">Age</string>
+    <string name="str_Leer">Read</string>
+    <string name="str_Limpiar">Clean</string>
+    <string name="str_Progra">Coding</string>
+    <string name="str_Registrar">Register</string>
+    <string name="str_apellido">Lastname</string>
+    <string name="str_natacion">Swim</string>
+    <string name="str_nombre">Name</string>
+    <string name="str_registro">REGISTER</string>
 </resources>
