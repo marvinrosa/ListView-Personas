@@ -11,4 +11,12 @@
     <string name="str_Registrar">Registrar</string>
     <string name="str_No">No.</string>
     <string name="str_Pasatiempo">Pasatiempo</string>
+    //
+    <string name="str_listar">Listar</string>
+
+    <string-array name="Opciones">
+        <item>@string/str_Registrar</item>
+        <item>@string/str_listar</item>
+    </string-array>
+    
 </resources>
