@@ -1,3 +1,7 @@
+package com.example.android.listviewpersonas;
+
+import com.example.android.listviewpersonas.Persona;
+
 import java.util.ArrayList;
 
 /**

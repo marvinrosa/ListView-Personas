@@ -79,14 +79,16 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/btnRegistrar"
-                android:layout_weight="1" />
+                android:layout_weight="1"
+                android:onClick="registrar" />
 
             <Button
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/btnLimpiar"
                 android:layout_weight="1"
-                android:text="@string/str_Limpiar" />
+                android:text="@string/str_Limpiar"
+                android:onClick="Borrar" />
         </LinearLayout>
 
     </LinearLayout>

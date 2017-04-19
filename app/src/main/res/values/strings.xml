@@ -13,10 +13,11 @@
     <string name="str_Pasatiempo">Pasatiempo</string>
     //
     <string name="str_listar">Listar</string>
+    <string name="mensaje"> Persona registrada Exitosamente</string>
 
-    <string-array name="Opciones">
+    <string-array name="str_Opciones">
         <item>@string/str_Registrar</item>
         <item>@string/str_listar</item>
     </string-array>
-    
+
 </resources>
